@@ -1,6 +1,6 @@
 
 ##  👋 Hi, I’m @Zxb-QHU
-## University at ✨Qinghai University✨
+## University at ✨Qinghai University✨ 2018.9-2022.6
 ## Master's degree is recommended to ✨Nanjing University of Aeronautics and Astronautics✨
 
 - 👀 I’m interested in Web,Python,微信小程序
