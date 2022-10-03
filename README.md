@@ -7,10 +7,10 @@
 
 ##
 - 👀 I’m interested in Web,Python,微信小程序
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning KGs&Software
 
 - 📫 How to reach me 
-xinboz77@qq.com or xinboz77@gmail.com
+xinboz77@qq.com or xinboz77@gmail.com xinboz@nuaa.edu.cn
 
 ## Prize
 - Asia super challenge (20-21)-The second prize
