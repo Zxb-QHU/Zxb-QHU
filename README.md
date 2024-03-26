@@ -6,7 +6,7 @@
 ### ✨Nanjing University of Aeronautics and Astronautics✨
 
 ##
-- 👀 I’m interested in Web,Python,微信小程序
+- 👀 I’m interested in Code Search, Code representation, enhancing the efficiency above them.
 - 🌱 I’m currently learning KGs&Software
 
 - 📫 How to reach me 
